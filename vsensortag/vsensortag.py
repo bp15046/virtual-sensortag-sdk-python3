@@ -1,4 +1,4 @@
-import vsensor
+from vsensor import vsensor
 import ast
 import time
 
