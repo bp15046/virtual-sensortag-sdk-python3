@@ -1,4 +1,4 @@
-from vsensor import vsensor
+from vsensortag import vsensor
 import ast
 import time
 
